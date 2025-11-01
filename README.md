@@ -122,4 +122,4 @@ A university AI project demonstrating practical machine vision.
 
 ### 🤝 Contributors
 - [SanazAllahyari](https://github.com/Sanaz-all)
-- [MasoudJanfashan](https://github.com/MasoudJanfashan)
+- [MasoudJanfashan](https://github.com/masoudjawnf)
